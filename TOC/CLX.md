@@ -1,0 +1,5 @@
+# CLX
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| CLX 87 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Fall/blob/main/overall/CLX%2087.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Fall/main/plot_overall/CLX%2087.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Fall/main/plot_overall_wide/CLX%2087.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Fall/blob/main/section/CLX%2087_A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Fall/main/plot_section/CLX%2087_A.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Fall/main/plot_section_wide/CLX%2087_A.png)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2025Fall/blob/main/section/CLX%2087_B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Fall/main/plot_section/CLX%2087_B.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2025Fall/main/plot_section_wide/CLX%2087_B.png) |
